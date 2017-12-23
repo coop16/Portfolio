@@ -12,15 +12,16 @@ In addition to my professional work and research as a statistician, I also enjoy
     -   Creating an app to predict dog euthanasia
     -   Predicting product backorders
 
-2.  **Data Visualization**
+2.  **Databases and Distributed Computing**
+    -   Creating a list of palindrome from the Ngrams dataset on AWS with Apache Hive
+
+3.  **Data Visualization**
     -   D3.js (see my bl.ocks [page](https://bl.ocks.org/coop16))
         -   Soccer Aways Goals Rule Analysis
+        -   California Wildfires
         -   New Zealand Sheep Density
     -   Tableau
         -   Injury pain levels prediction
-
-3.  **Databases and Distributed Computing**
-    -   Creating a list of palindrome from the Ngrams dataset on AWS with Apache Hive
 
 <br>
 
@@ -59,50 +60,7 @@ Modeling and Machine Learning
 
 <img src="DataSciencePortfolio_files/figure-markdown_github/unnamed-chunk-2-1.png" style="display: block; margin: auto;" />
 
-<br> <br> <br>
-
-Data Visualization Project
-==========================
-
-### (1) Soccer Away Goals Rule Analysis
-
-| Primary skills     | Primary Programs          |
-|--------------------|---------------------------|
-| Web Scraping       | Python (Selenium library) |
-| Data visualization | D3.js                     |
-
-[Visualization](http://bl.ocks.org/coop16/651c862765c96222cc7a7766810bb780) and corresponding Github [Gist](https://gist.github.com/coop16/651c862765c96222cc7a7766810bb780)
-
-[Technical Project Write-up / Github Repository](https://github.com/coop16/Soccer-Away-Goals-Rule-Analysis)
-
-<img src="DataSciencePortfolio_files/figure-markdown_github/unnamed-chunk-3-1.png" style="display: block; margin: auto;" />
-
-### (2) New Zealand Sheep Density
-
-| Primary skills     | Primary Programs |
-|--------------------|------------------|
-| Data visualization | D3.js            |
-
-[Visualization](http://bl.ocks.org/coop16/0c959ef656becbb80b4d6514d8313434) and corresponding Github [Gist](https://gist.github.com/coop16/0c959ef656becbb80b4d6514d8313434)
-
-<img src="DataSciencePortfolio_files/figure-markdown_github/unnamed-chunk-4-1.png" style="display: block; margin: auto;" />
-
-<br>
-
-### (3) Injury pain levels
-
-| Primary skills       | Primary Programs |
-|----------------------|------------------|
-| Data visualization   | Tableau          |
-| Time series modeling | R                |
-
-[Project Write-up / Github Repository](https://github.com/coop16/Injury-Pain-Prediction)
-
-[Tableau Dashboard](https://public.tableau.com/views/InjuryPrediction/Dashboard1?:embed=y&:display_count=yes) : hosted on Tableau Public
-
-<img src="DataSciencePortfolio_files/figure-markdown_github/unnamed-chunk-5-1.png" style="display: block; margin: auto;" />
-
-<br> <br> <br> <br> <br>
+<br> <br> <br> <br>
 
 Databases and Distributed Computing
 ===================================
@@ -117,4 +75,51 @@ Databases and Distributed Computing
 
 [Project Write-up / Github Repository](https://github.com/coop16/Palindrome-Generator)
 
+<img src="DataSciencePortfolio_files/figure-markdown_github/unnamed-chunk-3-1.png" style="display: block; margin: auto;" />
+
+<br> <br> <br>
+
+Data Visualization
+==================
+
+### (1) Soccer Away Goals Rule Analysis
+
+| Primary skills     | Primary Programs          |
+|--------------------|---------------------------|
+| Web Scraping       | Python (Selenium library) |
+| Data visualization | D3.js                     |
+
+[Visualization](http://bl.ocks.org/coop16/651c862765c96222cc7a7766810bb780) and corresponding Github [Gist](https://gist.github.com/coop16/651c862765c96222cc7a7766810bb780)
+
+[Technical Project Write-up / Github Repository](https://github.com/coop16/Soccer-Away-Goals-Rule-Analysis)
+
+<img src="DataSciencePortfolio_files/figure-markdown_github/unnamed-chunk-4-1.png" style="display: block; margin: auto;" />
+
+### (3) Injury pain levels
+
+| Primary skills       | Primary Programs |
+|----------------------|------------------|
+| Data visualization   | Tableau          |
+| Time series modeling | R                |
+
+[Project Write-up / Github Repository](https://github.com/coop16/Injury-Pain-Prediction)
+
+[Tableau Dashboard](https://public.tableau.com/views/InjuryPrediction/Dashboard1?:embed=y&:display_count=yes) : hosted on Tableau Public
+
+<img src="DataSciencePortfolio_files/figure-markdown_github/unnamed-chunk-5-1.png" style="display: block; margin: auto;" />
+
+### (3) Other D3.js Visualizations
+
+-   California Wildfires
+
+[Visualization](https://bl.ocks.org/coop16/de2c8f14b49225617d1083fc166ee21d) and corresponding Github [Gist](https://gist.github.com/coop16/de2c8f14b49225617d1083fc166ee21d)
+
 <img src="DataSciencePortfolio_files/figure-markdown_github/unnamed-chunk-6-1.png" style="display: block; margin: auto;" />
+
+<br>
+
+-   New Zealand Sheep Density
+
+[Visualization](http://bl.ocks.org/coop16/0c959ef656becbb80b4d6514d8313434) and corresponding Github [Gist](https://gist.github.com/coop16/0c959ef656becbb80b4d6514d8313434)
+
+<img src="DataSciencePortfolio_files/figure-markdown_github/unnamed-chunk-7-1.png" style="display: block; margin: auto;" />
