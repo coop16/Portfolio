@@ -18,8 +18,6 @@ In addition to my professional work and research as a statistician, I also enjoy
 3.  **Data Visualization**
     -   D3.js (see my bl.ocks [page](https://bl.ocks.org/coop16))
         -   Soccer Aways Goals Rule Analysis
-        -   California Wildfires
-        -   New Zealand Sheep Density
     -   Tableau
         -   Injury pain levels prediction
 
@@ -109,17 +107,10 @@ Data Visualization
 <img src="DataSciencePortfolio_files/figure-markdown_github/unnamed-chunk-5-1.png" style="display: block; margin: auto;" />
 
 ### (3) Other D3.js Visualizations
-
--   California Wildfires
-
-[Visualization](https://bl.ocks.org/coop16/de2c8f14b49225617d1083fc166ee21d) and corresponding Github [Gist](https://gist.github.com/coop16/de2c8f14b49225617d1083fc166ee21d)
+See my [bl.ocks page](https://bl.ocks.org/coop16) for more examples!
 
 <img src="DataSciencePortfolio_files/figure-markdown_github/unnamed-chunk-6-1.png" style="display: block; margin: auto;" />
 
 <br>
-
--   New Zealand Sheep Density
-
-[Visualization](http://bl.ocks.org/coop16/0c959ef656becbb80b4d6514d8313434) and corresponding Github [Gist](https://gist.github.com/coop16/0c959ef656becbb80b4d6514d8313434)
 
 <img src="DataSciencePortfolio_files/figure-markdown_github/unnamed-chunk-7-1.png" style="display: block; margin: auto;" />
