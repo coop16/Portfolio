@@ -9,6 +9,7 @@ In addition to my professional work and research as a statistician, I also enjoy
 **The projects can roughly be categorized into the following sections, although many of the skills overlap.**
 
 1.  **Modeling and Machine Learning**
+    -   Image segmentation of timelapse images to measure hours of direct sunlight
     -   Creating an app to predict dog euthanasia
     -   Predicting product backorders
 
@@ -30,7 +31,25 @@ Modeling and Machine Learning
 
 <br>
 
-### (1) Creating an app to predict dog euthanasia
+### (1) Image segmentation of timelapse images to measure hours of direct sunlight
+
+
+| **Primary skills**           | **Primary Programs** |
+|------------------------------|----------------------|
+| Image Segmentation           | Python               |
+| Clustering                   | Python               |
+| Data Visualization           | Python               |
+
+[Project Write-up / Github Repository](https://github.com/coop16/Sun-Shade-Image-Segmentation/blob/main/Direct_Sunlight_Hours.ipynb)
+
+
+Original Image             |  Binary Segmentation      |  Cumulative Sunlight
+:-------------------------:|:-------------------------:|:-------------------------:
+![SegmentLocal](DataSciencePortfolio_files/figure-markdown_github/raw_timelapse.gif "segment")  |  ![SegmentLocal](DataSciencePortfolio_files/figure-markdown_github/Binary_classifier_timelapse.gif "segment") |  ![SegmentLocal](DataSciencePortfolio_files/figure-markdown_github/Cumulative_classifier_timelapse.gif "segment")
+
+<br> <br>
+
+### (2) Creating an app to predict dog euthanasia
 
 | **Primary skills**           | **Primary Programs** |
 |------------------------------|----------------------|
@@ -48,7 +67,7 @@ Modeling and Machine Learning
 
 <br> <br>
 
-### (2) Predicting Product Backorders
+### (3) Predicting Product Backorders
 
 | **Primary skills** | **Primary Programs** |
 |--------------------|----------------------|
