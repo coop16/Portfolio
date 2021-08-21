@@ -9,6 +9,7 @@ In addition to my professional work and research as a statistician, I also enjoy
 **The projects can roughly be categorized into the following sections, although many of the skills overlap.**
 
 1.  **Modeling and Machine Learning**
+    -   Timing sprints using automated video frame counts and Mask R-CNN Instance segmentation 
     -   Image segmentation of timelapse images to measure hours of direct sunlight
     -   Creating an app to predict dog euthanasia
     -   Predicting product backorders
@@ -31,7 +32,24 @@ Modeling and Machine Learning
 
 <br>
 
-### (1) Image segmentation of timelapse images to measure hours of direct sunlight
+
+
+### (1) Timing sprints using automated video frame counts and Mask R-CNN Instance segmentation 
+
+
+| **Primary skills**           | **Primary Programs** |
+|------------------------------|----------------------|
+| Mask R-CNN Instance Segmentation           | Python               |
+| Image/Video/.json Processing                   | Python               |
+| Data Visualization           | Python               |
+
+[Project Write-up / Github Repository](https://github.com/coop16/Sprint_timing_instance_segmentation)
+
+![SegmentLocal](DataSciencePortfolio_files/figure-markdown_github/sprint_animation_1.gif "segment")
+
+
+
+### (2) Image segmentation of timelapse images to measure hours of direct sunlight
 
 
 | **Primary skills**           | **Primary Programs** |
@@ -49,7 +67,7 @@ Original Image             |  Binary Segmentation      |  Cumulative Sunlight
 
 <br> <br>
 
-### (2) Creating an app to predict dog euthanasia
+### (3) Creating an app to predict dog euthanasia
 
 | **Primary skills**           | **Primary Programs** |
 |------------------------------|----------------------|
@@ -67,7 +85,7 @@ Original Image             |  Binary Segmentation      |  Cumulative Sunlight
 
 <br> <br>
 
-### (3) Predicting Product Backorders
+### (4) Predicting Product Backorders
 
 | **Primary skills** | **Primary Programs** |
 |--------------------|----------------------|
