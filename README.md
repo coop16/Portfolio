@@ -8,14 +8,13 @@ In addition to my professional work and research as a statistician, I also enjoy
 
 **The projects can roughly be categorized into the following sections, although many of the skills overlap.**
 
-1.  **Modeling and Machine Learning**
+1.  **Image Processing**
     -   Timing sprints using automated video frame counts and Mask R-CNN Instance segmentation 
     -   Image segmentation of timelapse images to measure hours of direct sunlight
-    -   Creating an app to predict dog euthanasia
-    -   Predicting product backorders
 
 2.  **Databases and Distributed Computing**
     -   Creating a list of palindrome from the Ngrams dataset on AWS with Apache Hive
+
 
 3.  **Data Visualization**
     -   D3.js (see my bl.ocks [page](https://bl.ocks.org/coop16))
@@ -23,11 +22,16 @@ In addition to my professional work and research as a statistician, I also enjoy
     -   Tableau
         -   Injury pain levels prediction
 
-<br>
+4. **Other Modeling and Machine Learning**
+    -   Creating an app to predict dog euthanasia
+    -   Predicting product backorders
+
 
 <br>
 
-Modeling and Machine Learning
+<br>
+
+Image Processing
 =============================
 
 <br>
@@ -65,35 +69,6 @@ Original Image             |  Binary Segmentation      |  Cumulative Sunlight
 :-------------------------:|:-------------------------:|:-------------------------:
 ![SegmentLocal](DataSciencePortfolio_files/figure-markdown_github/raw_timelapse.gif "segment")  |  ![SegmentLocal](DataSciencePortfolio_files/figure-markdown_github/Binary_classifier_timelapse.gif "segment") |  ![SegmentLocal](DataSciencePortfolio_files/figure-markdown_github/Cumulative_classifier_timelapse.gif "segment")
 
-<br> <br>
-
-### (3) Creating an app to predict dog euthanasia
-
-| **Primary skills**           | **Primary Programs** |
-|------------------------------|----------------------|
-| Querying                     | SQL / BigQuery       |
-| Data Management and Modeling | R                    |
-| Presentation                 | R Shiny, Tableau     |
-
-[Project Write-up / Github Repository](https://github.com/coop16/Dog-Euthanasia-Prediction)
-
-[R Shiny App](https://cooperschumacher.shinyapps.io/DogPrediction/) : hosted on shinyapps.io
-
-[Tableau Story](https://public.tableau.com/profile/cooper.schumacher#!/vizhome/AnimalShelterDogEuthanizationDescriptives/Story1) : hosted on Tableau Public
-
-<img src="DataSciencePortfolio_files/figure-markdown_github/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
-
-<br> <br>
-
-### (4) Predicting Product Backorders
-
-| **Primary skills** | **Primary Programs** |
-|--------------------|----------------------|
-| Modeling           | Python               |
-
-[Project Write-up / Github Repository](https://github.com/coop16/Backorder-Prediction)
-
-<img src="DataSciencePortfolio_files/figure-markdown_github/unnamed-chunk-2-1.png" style="display: block; margin: auto;" />
 
 <br> <br> <br> <br>
 
@@ -130,7 +105,7 @@ Data Visualization
 
 <img src="DataSciencePortfolio_files/figure-markdown_github/unnamed-chunk-4-1.png" style="display: block; margin: auto;" />
 
-### (3) Injury pain levels
+### (2) Injury pain levels
 
 | Primary skills       | Primary Programs |
 |----------------------|------------------|
@@ -151,3 +126,46 @@ See my [bl.ocks page](https://bl.ocks.org/coop16) for more examples!
 <br>
 
 <img src="DataSciencePortfolio_files/figure-markdown_github/unnamed-chunk-7-1.png" style="display: block; margin: auto;" />
+
+<br>
+<br>
+<br>
+
+
+Other Modeling and Machine Learning
+=============================
+
+<br>
+
+### (1) Creating an app to predict dog euthanasia
+
+| **Primary skills**           | **Primary Programs** |
+|------------------------------|----------------------|
+| Querying                     | SQL / BigQuery       |
+| Data Management and Modeling | R                    |
+| Presentation                 | R Shiny, Tableau     |
+
+[Project Write-up / Github Repository](https://github.com/coop16/Dog-Euthanasia-Prediction)
+
+[R Shiny App](https://cooperschumacher.shinyapps.io/DogPrediction/) : hosted on shinyapps.io
+
+[Tableau Story](https://public.tableau.com/profile/cooper.schumacher#!/vizhome/AnimalShelterDogEuthanizationDescriptives/Story1) : hosted on Tableau Public
+
+<img src="DataSciencePortfolio_files/figure-markdown_github/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
+
+<br> <br>
+
+### (2) Predicting Product Backorders
+
+| **Primary skills** | **Primary Programs** |
+|--------------------|----------------------|
+| Modeling           | Python               |
+
+[Project Write-up / Github Repository](https://github.com/coop16/Backorder-Prediction)
+
+<img src="DataSciencePortfolio_files/figure-markdown_github/unnamed-chunk-2-1.png" style="display: block; margin: auto;" />
+
+<br> <br> <br> <br>
+
+
+
